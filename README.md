@@ -1,10 +1,10 @@
-# Android Project 6 - BitFit_Part2
+# Android Project 6 - *BitFit Part2*
 
-Submitted by: Jon Belden
+Submitted by: **Xiaoxiao Ma**
 
-BitFit is a health metrics app that allows users to track food intake
+**BitFit Part2** is a health metrics app that allows users to track food and its calories.
 
-Time spent: 8 hours spent in total
+Time spent: **20** hours spent in total
 
 ## Required Features
 
@@ -27,20 +27,22 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![BitFit_part2](https://user-images.githubusercontent.com/86134647/196064739-c972bf27-cac2-4168-bd96-d140be9c8324.gif)
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
-GIF created with LiceCap 
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
-The biggest chalenge was getting the "application" of the database to work when moving it to the fragment. 
-I found someone on the slack chat that posted they were having the same issue and updated the app per those directions.
-
+Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright 2022 - Jon Belden
+    Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
